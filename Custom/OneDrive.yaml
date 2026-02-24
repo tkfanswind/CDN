@@ -1,0 +1,7 @@
+payload:
+  # > OneDrive
+  - DOMAIN-SUFFIX,graph.microsoft.com
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,storage.live.com
+  - DOMAIN-SUFFIX,office.net
